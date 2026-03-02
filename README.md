@@ -81,3 +81,45 @@ Eyes open	ON	OFF
 Eyes closed < 3 s	ON	OFF
 Eyes closed ≥ 3 s	OFF	ON
 Eyes reopen	ON	OFF
+
+# 🎯 Features
+
+Real-time eye closure monitoring
+
+Time-threshold drowsiness detection
+
+Automatic alarm and motor cutoff
+
+Simple, low-cost hardware
+
+Educational embedded safety model
+
+# 🚀 Applications
+
+Driver drowsiness alert systems
+
+Transportation safety models
+
+Fatigue monitoring research
+
+Embedded systems education
+
+Human-machine interaction demos
+
+# 🔧 Possible Improvements
+
+Adjustable sensitivity / delay
+
+LED visual alerts
+
+Wearable sensor mount
+
+Vehicle integration
+
+Wireless monitoring
+
+Camera-based detection
+
+# 📄 License
+
+This project is open-source and free to use for educational and research purposes.
