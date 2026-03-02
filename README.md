@@ -11,7 +11,7 @@ Stops the motor (vehicle model) via relay
 
 When eyes reopen, the system automatically returns to normal operation.
 
-#⚙️ System Working Principle
+# ⚙️ System Working Principle
 
 The system operates on the principle of infrared (IR) reflection:
 
